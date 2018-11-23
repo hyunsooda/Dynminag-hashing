@@ -12,6 +12,12 @@ Implementation of Dynami hasing and performance comparison with chaning method
 ElapsedTime은 구축되는데 걸린시간임.즉, 자료를 특정모델에 맞게 삽입,삭제하는과정을 말함 (search time이 아님)
 구축시간은 체이닝이 우세하지만 탐색시간은 동적해싱이 훨씬 빠름
 
-<img width="599" alt="2018-11-24 3 15 51" src="https://user-images.githubusercontent.com/12508269/48956648-85e0c300-ef97-11e8-8f03-69f677bc7d42.png">
+
+동적해싱
 <img width="550" alt="2018-11-24 3 16 02" src="https://user-images.githubusercontent.com/12508269/48956649-8711f000-ef97-11e8-9f9a-593e15da18c7.png">
+
+
+
+체이닝
+<img width="599" alt="2018-11-24 3 15 51" src="https://user-images.githubusercontent.com/12508269/48956648-85e0c300-ef97-11e8-8f03-69f677bc7d42.png">
 
