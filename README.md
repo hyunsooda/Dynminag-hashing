@@ -12,7 +12,7 @@ Implementation of Dynami hasing and performance comparison with chaning method
 ElapsedTime은 구축되는데 걸린시간임.즉, 자료를 특정모델에 맞게 삽입,삭제하는과정을 말함 (search time이 아님)
 구축시간은 체이닝이 우세하지만 탐색시간은 동적해싱이 훨씬 빠름
 
-소스코드는 dynamic hashing 폴더안에 main.c 파일참고.
+소스코드는 dynamicHashing 폴더안에 main.c 파일참고.
 
 
 ## 동적해싱
