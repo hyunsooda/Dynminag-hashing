@@ -1,4 +1,4 @@
-# Dynminag-hashing
+# Dynamic-hashing
 Implementation of Dynami hasing and performance comparison with chaning method
 
 
